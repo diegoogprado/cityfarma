@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cityfarmaoswaldocruz.com.br/sitemap.xml
